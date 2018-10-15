@@ -1,0 +1,17 @@
+Package: honestBayes
+Type: Package
+Title: Bayesian updates
+Version: 0.0.1.90000
+Date: 2018-10-20
+Author: Tim Lucas
+Maintainer: Tim Lucas <timcdlucas@gmail.com>
+Description: 
+Suggests:
+    stan
+Imports:
+    grDevices,
+    stats,
+    graphics
+License: MIT + file LICENSE
+URL: https://github.com/timcdlucas/honestBayes
+RoxygenNote: 6.0.1
