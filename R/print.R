@@ -1,0 +1,1 @@
+print.honest_bayes <- function (X, ...){}

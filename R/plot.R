@@ -1,0 +1,1 @@
+plot. honest_Bayes<- function (X, ...){}

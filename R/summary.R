@@ -1,0 +1,1 @@
+summary.honest_bayed <- function (X, ...){}
